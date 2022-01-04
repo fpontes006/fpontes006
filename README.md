@@ -6,6 +6,8 @@
 
 ![fpontes006 GitHub stats](https://github-readme-stats.vercel.app/api?username=fpontes006&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpontes006)](https://github.com/fpontes006/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia! 😅 😎
 
 <div style="display: inline_block"><br/>
